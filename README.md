@@ -10,3 +10,7 @@ Simple information:
 **Why real-mode?** I wanted to be a bit more unique with my project and see how far I could push assembly before it got mind-numbing. I understand the limitations and issues with real-mode operating systems although I enjoy how it works, and who knows I might jump to 32-bit protected eventually.
 <br><br>
 **Can I help?** Yes! If you want to help with any suggestions please do, if you want to make any commits please ensure **NO AI** code is submitted. Please mind the progression time as I am busy in real-life and still learning.
+
+
+
+Im busy and this is not my project just being nice and im going to add a echo command and help command.
